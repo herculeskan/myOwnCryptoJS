@@ -19,4 +19,4 @@ class Block {
 
     // mineBlock(difficulty) {
 
-    // }
+    // }}
